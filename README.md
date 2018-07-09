@@ -1,6 +1,6 @@
 #  CloudKassir модуль для DiafanCMS
 
-Модуль позволяет интегрировать онлайн-кассу [CloudKassir](https://cloudkassir.ru/) в интернет-магазин на платформе CSCart.
+Модуль позволяет интегрировать онлайн-кассу [CloudKassir](https://cloudkassir.ru/) в интернет-магазин на платформе DiafanCMS.
 
 ### Совместимость:
 * DiafanCMS v.6.0.x и выше
